@@ -1,5 +1,9 @@
 
 /*---header---*/
+body{
+    background-color: rosybrown;
+}
+
 
 .bg-light {
     background-color: #f1f1f1!important;
@@ -24,6 +28,21 @@
     color: #fff;
     background-color: #ea672a;
     border-color: #ea672a;
-    border-radius: 50%;
+    border-radius: 40%;
     
+}
+
+
+
+.carousel-caption {
+    position: absolute;
+    right: 00;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #dc3545;
+    text-align: center;
+    height: 180px;
 }
