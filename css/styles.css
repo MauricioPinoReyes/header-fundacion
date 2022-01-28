@@ -1,0 +1,29 @@
+
+/*---header---*/
+
+.bg-light {
+    background-color: #f1f1f1!important;
+}
+
+.navbar {
+   padding: 0.5rem 3rem;
+   border-bottom: solid 3px #ea672a;
+   
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0,0,0);
+    font-weight: 500;
+    font-size: 1.2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ea672a;
+    border-color: #ea672a;
+    border-radius: 50%;
+    
+}
